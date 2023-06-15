@@ -1,0 +1,36 @@
+h1 , h2{
+color: #333;
+text-align: center;
+padding-top: 10px;
+padding-bottom: 10px;
+font-weight: bold;
+}
+
+ul {
+    border: 1px solid #333;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /* display: flex; */
+    justify-content: center;
+    background-color:yellowgreen;
+}
+
+ul li {
+    text-align: center;
+    list-style: none;
+    font-size: 24px;
+}
+
+ol {
+    border: 1px solid #333;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    justify-content: center;
+    background-color: yellowgreen;
+}
+
+ol li {
+    text-align: center;
+    list-style: none;
+    font-size: 24px;
+}
